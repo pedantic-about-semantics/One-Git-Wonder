@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./memes/meme1.png “animal meme” 
+[image1]: (./memes/meme1.png?raw=true) “animal meme”
 [image2]: ./memes/meme2.png “homer simpson meme”
 [image3]: ./memes/meme3.png “correlation meme” 
 [image4]: ./memes/meme4.png “correlation meme2” 
