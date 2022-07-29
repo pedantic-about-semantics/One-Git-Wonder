@@ -19,4 +19,4 @@ challenges:
 + [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## We chose Challenge 4 :confused:
-See [Challenge4.md](Challenge4.md)
+See [Challenge4.md](https://github.com/TNMDCollaborationWeek/Challenges#magic_wand-theme-4---elegant-documentation)
