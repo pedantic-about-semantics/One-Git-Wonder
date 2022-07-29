@@ -1,10 +1,9 @@
 ## Challenge 4 By the one and only, One Git Wonder!  :dancer:
-See [Challenge4.md](Challenge4.md) with links to GitHub repositories managed by National Statistical Offices
 
-###We surveyed a really large number of people. Of these respondents, the most confusing stats concepts were as the follows:
-####Correlation vs Causation
-####Averages
-####Type I and Type II errors.
+We surveyed a really large number of people. Of these respondents, the most confusing stats concepts were as the follows:
+-Correlation vs Causation
+-Averages
+-Type I and Type II errors.
 
 Further, 120% of respondents agreed, yes 120%!
 They Agreed they don’t have enough memes in their life.
