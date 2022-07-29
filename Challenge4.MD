@@ -6,11 +6,11 @@ We surveyed a really large number of people. Of these respondents, the most conf
 
 2. Averages
 
-3. 4. Type I and Type II errors.
+3. Type I and Type II errors.
 
 Further, 120% of respondents agreed, yes 120%!
 They Agreed they don’t have enough memes in their life.
-If fact, the empirical evidence suggests, senior staff at risk of meme deprivation :Face_Screaming_In_Fear:
+If fact, the empirical evidence suggests, senior staff are at risk of meme deprivation :Face_Screaming_In_Fear:
 
 ![](./memes/meme0.png)
 
