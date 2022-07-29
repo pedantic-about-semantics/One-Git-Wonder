@@ -1,0 +1,1 @@
+This document contains a description of the common ways averages are misused
