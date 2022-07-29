@@ -28,12 +28,13 @@ They Agreed they don’t have enough memes in their life.
 If fact, the empirical evidence suggests, senior staff at risk of meme deprivation :Face_Screaming_In_Fear:
 
 ![animal meme][image1] 
-![](./memes/meme1.png)
+![](./memes/meme0.png)
 
 Further we, and YOU, also have a moral imperative to not let this dog die!
 
 
 ![homer simpson meme][image2] 
+![](./memes/meme1.png)
 
 We’ll try to keep it educational, or at least funny. 
 
@@ -42,11 +43,13 @@ We’ll try to keep it educational, or at least funny.
 
 
 ![correlation meme][image3]
+![](./memes/meme2.png)
 
 Yes that is true.
 Also, did you know this?!?
 
 ![correlation meme2][image4]
+![](./memes/meme3.png)
 
 Yes Nickolas Cage is very prolific. He’s a very busy boy.
 
@@ -61,34 +64,41 @@ Causation indicates that one event is the result of the occurrence of the other 
 # So, whats the go with average?
 
 ![stats meme1][image5]
+![](./memes/meme4.png)
 
 The mean is the sum of the value of each observation in a dataset divided by the number of observations. The mean can be used for both continuous and discrete numeric data.
 For more information see this authoritative source : [Statistical Language - Measures of Central Tendency (abs.gov.au)] 
-(https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.abs.gov.au%2Fwebsitedbs%2FD3310114.nsf%2FHome%2FStatistical%2BLanguage%2B-%2Bmeasures%2Bof%2Bcentral%2Btendency&data=05%7C01%7Cjames.griffiths%40abs.gov.au%7C09a18ac51be746eb337508da7125de6e%7C34cdb737c4fa4c219a3488ac2d721f88%7C1%7C0%7C637946704697106856%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=t9rkTpX7BM01oQbp3I3hg1fxsGDUYmbSxxUj4PoIWhI%3D&reserved=0)
+(https://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Statistical+Language+-+measures+of+central+tendency#:~:text=There%20are%20three%20main%20measures,central%20value%20in%20the%20distribution.)
 
 
 “The mean cannot be calculated for categorical data, as the values cannot be summed. As the mean includes every value in the distribution the mean is influenced by outliers and skewed distributions”.
 
 ![skewness meme][image6]
+![](./memes/meme5.png)
 ![outlier meme 1][image7]
+![](./memes/meme6.png)
 
 And averages don’t consider outliers. You should pay attention to outliers… Even the outliers you don’t want to pay attention to.
 
 ![outlier meme 2][image8]
+![](./memes/meme7.png)
 
 Averages and correlation are important measures, but won’t tell the full story. For that full story,  you need memes!
 
 ![stats meme 2][image9]
+![](./memes/meme8.png)
 
 It is always important to look for exceptions to the rules. Many measure are proxies.
 
 ![stats meme 3][image10]
+![](./memes/meme9.png)
 Some things just don’t make sense.
 
 
 ![stats meme 4][image11]
+![](./memes/meme10.png)
 Tests are also snapshots. They can be wrong. For an authoritative source see Type I and II errors see Type I Error and Type II Error - [Experimental Errors in Research (explorable.com)](https://explorable.com/type-i-error)
 
-Now you can rest easy knowing you've saved a dog's life :Angel emoji:
+Now you can rest easy knowing you've saved a dog's life :angel:
 
 
