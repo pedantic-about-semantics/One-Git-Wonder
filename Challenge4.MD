@@ -15,7 +15,7 @@
 # One Git Wonder!  :dancer:
 Team motto: Overcommitted :exploding_head:
 
-## Challenge 4 :confused:
+## Challenge 4 
 See [Challenge4.md](Challenge4.md) with links to GitHub repositories managed by National Statistical Offices
 
 We surveyed a really large number of people. Of these respondents, the most confusing stats concepts were as the follows:
@@ -28,6 +28,7 @@ They Agreed they don’t have enough memes in their life.
 If fact, the empirical evidence suggests, senior staff at risk of meme deprivation :Face_Screaming_In_Fear:
 
 ![animal meme][image1] 
+![](./memes/meme1.png)
 
 Further we, and YOU, also have a moral imperative to not let this dog die!
 
